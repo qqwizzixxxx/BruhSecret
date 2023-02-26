@@ -3,7 +3,7 @@ local AZY = {};
 
 -- StarterGui.ArceusXV3
 AZY["1"] = Instance.new("ScreenGui", game.CoreGui);
-AZY["1"]["Name"] = [[ArceusXV3]];
+AZY["1"]["Name"] = [[ArceusXV3PcEdition]];
 AZY["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 AZY["1"]["ResetOnSpawn"] = false;
 
@@ -72,21 +72,7 @@ AZY["9"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["9"]["Size"] = UDim2.new(0.8902860283851624, 0, 0.6482642889022827, 0);
 AZY["9"]["Text"] = [[Dear User,
 
-We are writing to welcome you as one of you first bete testers of Arceus X!
-We are thrilled to have your collaboration and to offer you the oppoturnity
-to try out the new features we are developing.
-This Is Not Original Original Version For Mobile But I Remake This Have Fun By qqwizzixxxx CEO Of HVD Team
-
-We are confident that your experience and creativity will help us make
-Arceus X an even more effective and user-friendly application.
-Please feel free to share any feedback and suggestion that can help us further
-improve our platform.
-
-Thank you so much your support, and we look forward to working with
-you in this exciting journey!
-
-Best regards,
-SPDM Team]];
+This Is Not Original Original Version For Mobile But I Remake This Have Fun By qqwizzixxxx CEO Of HVD Team]];
 AZY["9"]["Name"] = [[Text]];
 AZY["9"]["BackgroundTransparency"] = 1;
 AZY["9"]["Position"] = UDim2.new(0.04280221089720726, 0, 0.14032021164894104, 0);
